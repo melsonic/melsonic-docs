@@ -33,6 +33,7 @@ export default NextAuth({
 
 import NextAuth from "next-auth/next"
 import GoogleProvider from "next-auth/providers/google"
+import GithubProvider from "next-auth/providers/github"
 import { FirestoreAdapter } from "@next-auth/firebase-adapter"
 
 export default NextAuth({
