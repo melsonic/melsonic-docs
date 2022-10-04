@@ -1,4 +1,4 @@
-import { initializeApp, getApp, getApps } from "firebase/app"
+/* import { initializeApp, getApp, getApps } from "firebase/app"
 import 'firebase/auth'
 import { getFirestore, collection, getDocs, initializeFirestore } from 'firebase/firestore/lite'
 import { getStorage } from "firebase/storage"
@@ -22,4 +22,4 @@ const db = getFirestore(app);
 
 const storage = getStorage(app);
 
-export {app, db, storage};
+export {app, db, storage}; */
